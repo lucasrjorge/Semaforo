@@ -1,4 +1,4 @@
-7 Jumper
-3 Leds
-3 Resistores
-Arduino UNO
+7 Jumpers Macho-Macho <br>
+3 Leds <br>
+3 Resistores 330 Ω <br>
+Arduino UNO <br>
